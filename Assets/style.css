@@ -16,6 +16,9 @@ navbar {
 .nav-link {
   font-size: 1.1em !important;
 }
+.description-header {
+  color: #0BADA6;
+}
 
 .latitude {
     color: white;
@@ -77,8 +80,14 @@ table{
   }
   @media (max-width: 768px) {
 
-.dropdown-item{
+.navbar-brand {
     font-size: 15px;
+}
+
+.ml-auto {
+
+  background-color: #0BADA6;
+
 }
 
 
@@ -92,6 +101,7 @@ table{
   h1{
     padding: 8px;
     font-size: 25px;
+    
   }
   h2{
     padding: 6px;
@@ -137,6 +147,7 @@ table{
   h1{
     padding: 6px;
     font-size: 20px;
+    
   }
   h2{
     padding: 4px;
