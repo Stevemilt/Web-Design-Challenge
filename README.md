@@ -1,2 +1,8 @@
 # Web-Design-Challenge
-Web Design Homework - Web Visualization Dashboard (Latitude)
+Web Visualization Dashboard (Latitude)
+
+  * Building a website using a previous analysis [WeatherPy](https://github.com/Stevemilt/python-api-challenge/tree/main/WeatherPy).
+  * Completed using HTML, CSS and Bootstrap.
+
+## Screenshots
+
